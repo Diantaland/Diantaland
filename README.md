@@ -11,5 +11,5 @@
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/faberian-diantama-a9173524b/)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Cazorla/2Tidxc/1001/5066976/)
 </div>
